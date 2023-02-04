@@ -32,7 +32,29 @@
 <img width="1439" alt="Screenshot 2023-01-27 at 5 41 52 PM" src="https://user-images.githubusercontent.com/114147627/215127117-962c5e0b-b1b0-4957-99e5-dda542ba0ba7.png">
 
 
+<br/>
+<p >
+  <h1 >BookiWise | Online Book Store Project </h1>
+  
 
+
+</p>
+
+<img width="1437" alt="Screenshot 2023-01-26 at 8 40 55 PM" src="https://user-images.githubusercontent.com/114147627/214922121-6df16b5c-3286-466f-88a1-af6833dc8d34.png">
+
+<br>
+
+The Online Book Store is an interactive and user-friendly web application built using the Django framework, which offers a wide range of features for customers looking to purchase books online. Users can browse and search for books by category and title, put items in their cart or wishlist, leave reviews, and even send messages to the admin for any issues. The homepage features sections for featured books, recent books, and more. The administrator can also manage books, categories, orders, including adding, removing, and updating book details and prices, making it a centralized platform for all book-related needs.
+
+<br>
+
+## Built With
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,python,django,sqlite)](https://skillicons.dev)
+
+
+<br>
 
 
 <br>
