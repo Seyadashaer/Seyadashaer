@@ -10,7 +10,7 @@
 
 <br>
 <hr>
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,django,flask,aws,sqlite,mysql,git,github,vim" />
@@ -19,7 +19,7 @@
 
 <br>
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/seyadashaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyadashaer" height="30" width="40" /></a>
 <a href="https://fb.com/seyadashaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seyadashaer" height="30" width="40" /></a>
@@ -56,7 +56,7 @@
 
 
 <hr>
-<h3 align="center">Github Statics:</h3>
+<h1 align="center">Github Statics:</h1>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyadashaer&show_icons=true&locale=en&layout=compact" alt="seyadashaer" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seyadashaer&" alt="seyadashaer" /></p>
