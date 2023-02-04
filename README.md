@@ -37,8 +37,8 @@
 <p >
   
  # My Projects
- # BookiWise  | Online Book Store Project [Github](https://github.com/Seyadashaer/BookiWise)
-  <h1 >BookiWise | Online Book Store Project </h1>
+
+  <h1 >BookiWise | Online Book Store Project | <a href="https://github.com/Seyadashaer/BookiWise"> Github</a>  </h1>
   
 
 
