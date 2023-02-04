@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seyada Shaer</h1>
-<h3 align="canter">I’m a Full-Stack Developer with a background in Medicine from Palestine.</h3>
+<h3 align="center">I’m a Full-Stack Developer with a background in Medicine from Palestine.</h3>
 <br>
 
 - 🔭 I’m currently working on **building full-stack web applications related to the healthcare field.**
