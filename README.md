@@ -2,7 +2,7 @@
 <h3 align="left">I’m a Full-Stack Developer with a background in Medicine from Palestine.</h3>
 <br>
 
-- 🔭 I’m currently working on **building full-stack web applications related to the healthcare field.**
+- 🔭 I’m currently learning on **MERN.**
 
 - 👯 I’m looking to collaborate on **open-source projects and learn from other developers.**
 
