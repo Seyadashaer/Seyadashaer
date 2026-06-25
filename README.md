@@ -1,88 +1,68 @@
-<h1 align="left">Hi 👋,
-  
-  I'm Seyada Shaer</h1>
+<h1 align="center">Hi 👋, I'm Seyada Shaer</h1>
 
-<h3 align="left">
-Medical Doctor (MD) | Certified Health Data Analyst (CHDA) | Microsoft Certified Power BI Data Analyst (PL-300)
+<h3 align="center">
+Medical Doctor (MD) • Certified Health Data Analyst (CHDA) • Microsoft Certified Power BI Data Analyst (PL-300)
 </h3>
 
-<p align="left">
-I’m a Healthcare Business Intelligence Analyst from Palestine with 3+ years of experience transforming healthcare data into Power BI dashboards, KPI frameworks, quality indicators, and executive reporting solutions.
+<p align="center">
+Healthcare Business Intelligence Analyst specializing in Power BI, healthcare quality indicators, KPI frameworks, executive reporting, and data-driven decision making.
 </p>
 
-<br>
+---
 
-* 🔭 I’m currently working on **Healthcare BI, Power BI dashboards, KPI monitoring, and quality indicators.**
+### 👩‍💻 About Me
 
-* 🏥 My background combines **Medicine, Healthcare Analytics, Business Intelligence, and Data Governance.**
+* 🏥 Medical Doctor with a passion for Healthcare Business Intelligence.
+* 📊 Experienced in designing Power BI dashboards, healthcare analytics, executive reporting, and quality indicators.
+* 💡 Focused on transforming complex healthcare data into meaningful insights that support better decisions.
+* 🔒 All portfolio dashboards use anonymized and fictional data to protect confidentiality.
 
-* 📊 I work with **Power BI, SQL, DAX, Python, Power Query, HIS/EHR data, and reporting automation.**
+---
 
-* 👯 I’m interested in collaborating on **healthcare data analytics, BI dashboards, quality improvement, and data-driven reporting projects.**
-
-* 💡 Portfolio projects use **anonymized / fictional / manipulated data** to demonstrate dashboard design while protecting confidentiality.
-
-<br>
-
-<h1 align="center">Languages and Tools:</h1>
+# 🌐 Portfolio
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,aws,git,github,html,css,javascript,django,flask" />
-  </a>
+
+## 👉 <a href="https://seyadashaer.github.io/">Visit My Portfolio</a>
+
 </p>
 
 <p align="center">
-  <strong>Power BI | DAX | Power Query | SQL | Python | Excel | Healthcare KPIs | HIS/EHR | Data Governance</strong>
+My portfolio contains detailed case studies, healthcare BI dashboards, Power BI projects, KPI frameworks, quality indicator analytics, and enterprise reporting solutions.
 </p>
 
-<br>
-
-<h1 align="center">Connect with me:</h1>
+---
 
 <p align="center">
-<a href="https://linkedin.com/in/seyadashaer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyadashaer" height="30" width="40" />
+
+### 🚀 What you'll find there
+
+📊 Interactive Dashboard Samples
+
+🏥 Healthcare Quality Indicators
+
+📈 Executive Reporting
+
+📉 KPI Frameworks
+
+⚡ Business Intelligence Case Studies
+
+🩺 Clinical Registry Analytics
+
+📚 Project Documentation
+
+</p>
+
+---
+
+
+
+---
+
+<p align="center">
+
+<a href="https://linkedin.com/in/seyadashaer">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
 </a>
-</p>
 
-<br>
-
-<h1 align="center">
-My Portfolio | <a href="https://seyadashaer.github.io/">Visit It</a>
-</h1>
-
-<p align="center">
-Healthcare BI portfolio featuring anonymized Power BI dashboard samples, healthcare quality indicators, KPI frameworks, and analytics projects.
-</p>
-
-<br>
-
-<h1 align="center">Featured Work</h1>
-
-<h3 align="center">Healthcare Quality Indicators Dashboard</h3>
-<p align="center">
-Power BI dashboard suite using anonymized sample data to monitor healthcare quality indicators, benchmarks, trends, and executive KPIs.
-</p>
-
-<h3 align="center">Hospital Executive Performance Dashboard</h3>
-<p align="center">
-Enterprise BI reporting for operational, financial, clinical, and physician performance KPIs.
-</p>
-
-<h3 align="center">Clinical Registry & Outcomes Analytics</h3>
-<p align="center">
-Healthcare registry framework supporting structured clinical data collection, outcome tracking, and reporting.
-</p>
-
-<br>
-
-<h1 align="center">GitHub Statistics:</h1>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyadashaer&show_icons=true&locale=en&layout=compact" alt="seyadashaer" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seyadashaer&" alt="seyadashaer" />
 </p>
