@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Seyada Shaer</h1>
+<h1 align="center">Hi 👋,
+  I'm Seyada Shaer</h1>
 
-<h3 align="center">
+<h4 align="center">
 Medical Doctor (MD) • Certified Health Data Analyst (CHDA) • Microsoft Certified Power BI Data Analyst (PL-300)
-</h3>
+</h4>
 
 <p align="center">
 Healthcare Business Intelligence Analyst specializing in Power BI, healthcare quality indicators, KPI frameworks, executive reporting, and data-driven decision making.
