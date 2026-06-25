@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm Seyada Shaer</h1>
+<h1 align="left">Hi 👋,
+  
+  I'm Seyada Shaer</h1>
 
 <h3 align="left">
 Medical Doctor (MD) | Certified Health Data Analyst (CHDA) | Microsoft Certified Power BI Data Analyst (PL-300)
